@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "使用二进制表示状态(Enum Flags)"
+title:  "怎样使用二进制数值表示变量状态(Enum Flags)"
 categories: coding
 ---
 今天看到下面这样的java代码：

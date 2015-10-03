@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Note On Using Auto Layout"
+title:  "Understanding Auto Layout"
 categories: tech ios
 ---
 

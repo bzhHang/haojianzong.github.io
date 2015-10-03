@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "怎样利用业余时间学习大部头技术书"
+title:  "学习大部头技术书的小技巧"
 categories: learning tech
 ---
 
