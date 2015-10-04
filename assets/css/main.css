@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  color: rgb(51, 51, 51);
+  color: #555;
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
@@ -34,7 +34,7 @@ h6 { font-size: .75em; }
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; text-decoration: none; }
+a         { color: #465CA2; text-decoration: none; }
 a:hover   { color: #000; }
 
 ul { margin: 8px 0 8px 16px; }
