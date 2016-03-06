@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "陪伴半年的Code Complete"
+title:  "读完 Code Complete 了"
 categories: coding reading
 ---
 

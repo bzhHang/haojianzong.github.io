@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不要使用macro来定义常量"
+title: "Objective C 用宏定义定义常量有什么问题"
 categories: coding ios
 ---
 
