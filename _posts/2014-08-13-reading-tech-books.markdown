@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "学习大部头技术书的小技巧"
+title:  "怎样利用下班时间看经典技术书"
 categories: learning tech
 ---
 
