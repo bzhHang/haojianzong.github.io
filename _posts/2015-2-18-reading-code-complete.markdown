@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "读完 Code Complete 了"
+title:  "推荐经典读物 Code Complete (代码大全）"
 categories: coding reading chinese
 ---
 
