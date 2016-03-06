@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Auto Layout Cheatsheet"
-categories: tech ios
+categories: tech ios english
 ---
 
 Auto layout is such an addictive tool to use in Cocoa development. Since Apple has introduced iphone 6 and the 6 plus, you have no reason not to get start on using it.

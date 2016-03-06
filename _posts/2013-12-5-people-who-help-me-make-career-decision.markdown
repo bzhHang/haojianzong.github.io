@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "People Who Help Me Make Career Decision"
-categories: career
+categories: career english
 ---
 
 Career transition is as difficult as you might have imagined. Thankfully from

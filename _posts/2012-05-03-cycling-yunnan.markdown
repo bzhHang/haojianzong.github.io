@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 骑行云南
-categories: travel
+categories: travel chinese
 ---
 一、准备阶段
 

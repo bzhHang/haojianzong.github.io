@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Objective C 用宏定义定义常量有什么问题"
-categories: coding ios
+categories: coding ios chinese
 ---
 
 通常，自定义界面的时候，会需要定义很多诸如高度、宽度、item spacing等常量。

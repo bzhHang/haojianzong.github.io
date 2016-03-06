@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "怎样利用下班时间看经典技术书"
-categories: learning tech
+categories: learning tech chinese
 ---
 
 我在工作之余，比较喜欢学习一些与工作内容并非直接相关的知识。

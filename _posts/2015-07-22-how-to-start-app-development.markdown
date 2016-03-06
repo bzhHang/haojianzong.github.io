@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "怎样入门学习 iOS 开发"
-categories: iOS
+title:  "iOS 开发怎样入门"
+categories: iOS chinese
 ---
 刚开始做程序员的时候，曾经把自己[自学iOS开发的经验](http://www.zhihu.com/question/20264108/answer/18701892)写在知乎上分享。不知不觉，至今也获得了400多赞。后来陆陆续续有人私信我咨询iOS学习的问题，最近有一位大四的学生给我发私信，我觉得他遇到的问题比较典型，下面我把他的问题和我的回复贴出来，供参考。
 

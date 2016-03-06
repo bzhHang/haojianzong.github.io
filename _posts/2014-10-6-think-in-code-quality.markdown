@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thinking in code quality"
-categories: coding
+categories: coding english
 ---
 
 These days I moved to a new house, read a few pages of < Code Complete >.

@@ -32,7 +32,7 @@ h5 { font-size: .83em; }
 h6 { font-size: .75em; }
 
 h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+p { margin: 0 0 25px 0; }
 
 a         { color: #465CA2; text-decoration: none; }
 a:hover   { color: #000; }
@@ -87,6 +87,8 @@ img.img-center {
 .published_date {
   font-size: 14px;
   color: rgba(0,0,0,0.3);
+  margin: 0 0 20px 0;
+  display: block;
 }
 .jz_btn {
   display: inline-block;
@@ -220,7 +222,7 @@ ul.timeline li {
   width: 90%;
   max-width: 600px;
   margin: 3em auto 2em;
-  line-height: 1.5em;
+  line-height: 1.7em;
 }
 @media only screen and (max-device-width: 480px) { .site { margin-top: 10px;} }
 .header { 

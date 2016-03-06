@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Implement In-App Language Switch in Your iOS App"
-categories: iOS
+categories: iOS coding english
 ---
 
 Apple provides an official way to implement in-app language switch on an

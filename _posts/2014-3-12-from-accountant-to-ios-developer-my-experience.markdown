@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "From Accountant To iOS Developer: My Experience"
-categories: career
+categories: career english
 ---
 
 I worked as an accountant for three years after I graduated from a school that is famous for business and accounting in China. Even though my income was enough to live a decent life in China, I was never happy with my work. Every day I would wake up asking myself "what am I doing? Is it how my life would be like for the next ten or twenty years?"

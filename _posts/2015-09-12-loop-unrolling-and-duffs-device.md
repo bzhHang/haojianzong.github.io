@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "什么是Loop Unrolling 和 Duff's Device"
-categories: coding
+categories: coding chinese
 ---
 
 在读 CSAPP (Computer Systems) 第五章时，了解到 Loop Unrolling

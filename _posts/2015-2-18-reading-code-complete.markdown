@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "读完 Code Complete 了"
-categories: coding reading
+categories: coding reading chinese
 ---
 
 \<Code Complete\> 是一本难得的可以在kindle上看的技术类经典书籍。 

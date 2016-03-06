@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "怎样使用二进制数值表示变量状态(Enum Flags)"
-categories: coding
+categories: coding chinese
 ---
 今天看到下面这样的java代码：
 {% highlight java %}

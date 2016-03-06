@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MVVM 设计模式 View Model 应该怎么用"
-categories: ios coding
+categories: ios coding chinese
 ---
 
 MVVM设计模式在MVC的基础上增加了一层，view model。

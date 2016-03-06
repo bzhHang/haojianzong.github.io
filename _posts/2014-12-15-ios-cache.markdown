@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "一个iOS App的缓存策略"
-categories: coding ios
+title:  "iOS App 的网络缓存方案"
+categories: coding ios chinese
 ---
 
 此前，我在V2EX上请教"[iOS app REST api缓存方案][1]"，也请教过一些朋友，发现不少人都遇到同样的问题。在网上搜索最佳实践的时候，没有找到比较满意的解决方案，所以在这里总结一下我的经验。

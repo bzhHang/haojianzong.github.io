@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git Flow Keypoints"
-categories: tech git
+categories: tech git english
 ---
 
 ###A successful git flow
