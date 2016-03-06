@@ -244,7 +244,20 @@ ul.timeline li {
 
 .avatar {
   width: 60px;
-  height: auto;
+  height: 60px;
+  display: block;
+  border-radius: 5px;
+  background: transparent url('/images/avatar.png') center top no-repeat;
+  background-size: 100% 100%;
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.3s;
+}
+
+.avatar:hover {
+  background-image: url('/images/avatar-hover.png');
 }
 
 .site_title {

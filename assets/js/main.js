@@ -2,6 +2,7 @@
 
 $(function() {
   auto_active_menu();
+  avatar_hover_effect();
 });
 
 function auto_active_menu() {
@@ -10,4 +11,31 @@ function auto_active_menu() {
   $('.menu a').filter(function() {
       return this.href == url;
       }).addClass('active');
+}
+
+function avatar_hover_effect() {
+  $(".avatar").hover(function(e)
+  {
+    var _this = e.target;
+    var color = getAvatarColor();
+    $(_this).css("background-color", color);
+  });
+}
+
+var colorIndex = 0;
+
+function getAvatarColor()
+{
+  if (colorIndex > 3) {
+    colorIndex = 0;
+  }
+
+  //Store available css classes
+  var classes = new Array("#2980b9", "#bdc3c7", "#2c3e50", "#c0392b");
+
+  var randomNumber = Math.floor(Math.random()*4);
+
+  colorIndex++;
+
+  return classes[randomNumber];
 }
