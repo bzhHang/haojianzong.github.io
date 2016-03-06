@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding Auto Layout"
+title:  "Auto Layout Cheatsheet"
 categories: tech ios
 ---
 
