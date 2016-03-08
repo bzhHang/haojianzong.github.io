@@ -22,20 +22,7 @@ function avatar_hover_effect() {
   });
 }
 
-var colorIndex = 0;
-
 function getAvatarColor()
 {
-  if (colorIndex > 3) {
-    colorIndex = 0;
-  }
-
-  //Store available css classes
-  var classes = new Array("#2980b9", "#bdc3c7", "#2c3e50", "#c0392b");
-
-  var randomNumber = Math.floor(Math.random()*4);
-
-  colorIndex++;
-
-  return classes[randomNumber];
+  return "#bdc3c7";
 }
