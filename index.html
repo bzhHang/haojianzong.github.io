@@ -16,7 +16,7 @@ title: Jakehao
   <h2 class="jz_color">文章 · 中文</h2>
   <ul class="posts">
     {% for post in site.categories.chinese %}
-      <li><span class="date">{{ post.date | date: "%b %d, %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span class="date">{{ post.date | date: "%b %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
