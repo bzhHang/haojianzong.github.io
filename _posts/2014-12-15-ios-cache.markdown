@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iOS App 的网络缓存方案"
+title:  "iOS App 网络缓存方案"
 categories: coding ios chinese
 ---
 
