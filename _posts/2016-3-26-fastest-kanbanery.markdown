@@ -18,9 +18,9 @@ First, find your Project Email according [this official tips][1].
 
 Second, create an in-app email shortcut using Launch Center. As shown below, I create two shortcuts. One to plain text task, the other to send a task with photo.
 
+![](/images/blog/kanbanery-launch.jpg)
+
 In this way, whenever an idea come up in my mind, I will be able to grap my
 iPhone and add a task to my Kanbanery inbox instantly.
-
-![](/images/blog/kanbanery-launch.jpg)
 
 [1]: https://kanbanery.desk.com/customer/en/portal/articles/1144317-create-a-task-from-an-email
