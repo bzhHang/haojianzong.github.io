@@ -8,15 +8,18 @@ After reading a lot of productivity methods, I recently fell in love with using 
 
 It happens so often that during the day at some random minute, an idea pop up in my mind. At that moment I deseperately want to quickly add a task to my Kanbanery task.
 
-The fastest way create task in Kanbanery comes from a combination of Launch Center (an iPhone app) and Kanbanery email task creation.
+The fastest way to create a task in Kanbanery comes from a combination of Launch Center (an iPhone app) and Kanbanery email task creation.
 
-So here is the steps to setup:
+So here are the steps to setup:
 
 First, find your Project Email according [this official tips][1].
 
 ![](/images/blog/kanbanery-project-email.jpg)
 
-Second, create a quick in-app email shortcut using Launch Center. As shown below, I create two shortcuts. One to plain text task, the other to send a task with photo.
+Second, create an in-app email shortcut using Launch Center. As shown below, I create two shortcuts. One to plain text task, the other to send a task with photo.
+
+In this way, whenever an idea come up in my mind, I will be able to grap my
+iPhone and add a task to my Kanbanery inbox instantly.
 
 ![](/images/blog/kanbanery-launch.jpg)
 
