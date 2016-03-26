@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Quickly Add Task to Kanbanery Board"
+title: "How to Quickly Add A Task to Kanbanery Board"
 categories: english
 ---
 
