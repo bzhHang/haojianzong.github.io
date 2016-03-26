@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to quickly add task to Kanbanery board"
-categories: english, coding
+categories: english
 ---
 
 After reading a lot of productivity methods, I recently fell in love with using Kanbanery to manage my daily tasks.
