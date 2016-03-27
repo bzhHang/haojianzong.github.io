@@ -16,6 +16,8 @@ First, find your Project Email according [this official tips][1].
 
 ![](/images/blog/kanbanery-project-email.jpg)
 
+<!--more-->
+
 Second, create an in-app email shortcut using Launch Center. As shown below, I create two shortcuts. One to plain text task, the other to send a task with photo.
 
 ![](/images/blog/kanbanery-launch.jpg)
